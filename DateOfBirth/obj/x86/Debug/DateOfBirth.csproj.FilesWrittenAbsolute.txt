@@ -1,0 +1,5 @@
+/home/sekhar/Documents/WinApps/DateOfBirth/DateOfBirth/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sekhar/Documents/WinApps/DateOfBirth/DateOfBirth/bin/Debug/DateOfBirth.exe.mdb
+/home/sekhar/Documents/WinApps/DateOfBirth/DateOfBirth/bin/Debug/DateOfBirth.exe
+/home/sekhar/Documents/WinApps/DateOfBirth/DateOfBirth/obj/x86/Debug/DateOfBirth.exe
+/home/sekhar/Documents/WinApps/DateOfBirth/DateOfBirth/obj/x86/Debug/DateOfBirth.exe.mdb
